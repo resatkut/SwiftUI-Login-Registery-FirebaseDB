@@ -1,5 +1,5 @@
 # SwiftUI-Login-Registery-FirebaseDB
- Login and Registery Page made with SwiftUI
+ Login and Registery Page made with SwiftUI and Firebase
 
 
 
